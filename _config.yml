@@ -11,7 +11,7 @@ repository               : "gaojingsheng/gaojingsheng.github.io"
 author:
   name             : "Jingsheng Gao (高景盛)"
   avatar           : "images/life_gjs.jpg" # "images/bio-photo.jpeg"
-  bio              : "Shanghai Jiao Tong University"
+  bio              : # "Shanghai Jiao Tong University"
   location         : "Shanghai"
   employer         :
   pubmed           : 
