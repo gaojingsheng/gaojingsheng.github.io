@@ -2,6 +2,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+- [12/2023] One paper get accepted by EAAI'24.
 - [12/2023] 🎉 One paper get accepted by AAAI'24.
 - [10/2023] One paper gets accepted by ACM TOMM.
 - [06/2023] One paper gets accepted by MICCAI'23.
