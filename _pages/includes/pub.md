@@ -38,14 +38,27 @@ The 61st Annual Meeting of the Association for Computational Linguistics (**ACL*
 
 [**Hierarchical Verbalizer for Few-Shot Hierarchical Text Classification**](https://aclanthology.org/2023.acl-long.164.pdf) 
 
-Ke Ji, Yixin Lian, **Jingsheng Gao**, Baoyuan Wang \\
-The 61st Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023. (CCF-A)
+Zefang Yu, Mingye Xie, **Jingsheng Gao**, Ting Liu, Yuzhuo Fu \\
+The Symposium on Educational Advances in Artificial Intelligence(**EAAI**), 2024. (AAAI Special Track)
 
 📄 [**Paper**](https://aclanthology.org/2023.acl-long.164.pdf) 🍔 [**Project**](https://github.com/1KE-JI/HierVerb) 
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/student.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+
+[**From Raw Video to Pedagogical Insights: A Unified Framework for Student Behavior Analysis**](https://gaojingsheng.github.io/) 
+
+Ke Ji, Yixin Lian, **Jingsheng Gao**, Baoyuan Wang \\
+The 14th Symposium on Educational Advances in Artificial Intelligence (**EAAI**), 2023. (CCF-A)
+
+📄 [**Paper**](https://gaojingsheng.github.io/) 🍔 [**Project**](https://gaojingsheng.github.io/) 
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DynaSlim.png' alt="sym" width="100%" height="100%"></div></div>
