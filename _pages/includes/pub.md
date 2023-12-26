@@ -80,12 +80,12 @@ IEEE International Conference on Multimedia and Expo (ICME) (**ICME**), 2023. (C
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
-[**CluCDD: Contrastive Dialogue Disentanglement via Clustering**](https://arxiv.org/pdf/2302.08146.pdf) 
+[**CluCDD: Contrastive Dialogue Disentanglement via Clustering**](https://ieeexplore.ieee.org/document/10193381) 
 
 **Jingsheng Gao**, Zeyu Li, Suncheng Xiang, Ting Liu, Yuzhuo Fu\\
 IEEE International Conference on Acoustics, Speech and Signal Processing Satellite Workshop (IWCIM), 2023.
 
-📄 [**Paper**](https://arxiv.org/pdf/2302.08146.pdf) 🍔 [**Project**](https://github.com/gaojingsheng/CluCDD) 
+📄 [**Paper**](https://ieeexplore.ieee.org/document/10193381) 🍔 [**Project**](https://github.com/gaojingsheng/CluCDD) 
 
 </div>
 </div>
