@@ -46,10 +46,6 @@ The 61st Annual Meeting of the Association for Computational Linguistics (**ACL*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/student.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/MTA.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
@@ -63,6 +59,9 @@ Journal of Multimedia Tools and Applications (**MTA**), 2024. (CCF-C)
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/student.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
 [**From Raw Video to Pedagogical Insights: A Unified Framework for Student Behavior Analysis**](https://gaojingsheng.github.io/) 
