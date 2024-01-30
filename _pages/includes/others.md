@@ -14,6 +14,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+- Annual Meeting of the Association for Computational Linguistics (ACL 2024)
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
 - ACM International Conference on Multimedia (ACM MM 2023)
 - International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023-2024)
