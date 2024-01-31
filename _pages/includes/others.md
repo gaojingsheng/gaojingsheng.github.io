@@ -39,6 +39,8 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+- *2024.01 - now*, Xiaoice, Shanghai.
+
 - *2022.08 - 2023.02*, Xiaoice, Shanghai.
 
 - *2020.06 - 2020.08*, Fosun Pharmaceutical, Shanghai.
