@@ -19,7 +19,7 @@
 - ACM International Conference on Multimedia (ACM MM 2023)
 - International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023-2024)
 - Journal Reviewer of Expert Systems with Applications
-- Journal of IEEE Transactions on Medical Imaging
+- Journal Reviewer of IEEE Transactions on Medical Imaging
 </div>
 
 
