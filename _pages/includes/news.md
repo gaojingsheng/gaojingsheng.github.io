@@ -1,7 +1,7 @@
 # 🔥 News
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
-
+- [02/2024] I will be a reviewer of Journal of IEEE Transactions on Medical Imaging
 - [01/2024] I will be a reviewer of ARR2024 and ACL2024.
 - [01/2024] One paper get accepted by Journal of Multimedia Tools and Applications.
 - [12/2023] One paper get accepted by EAAI'24.
