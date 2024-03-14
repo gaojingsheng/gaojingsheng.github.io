@@ -1,6 +1,8 @@
 # 🔥 News
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
+- [03/2024] I will be an assistant editor of [Med-X](https://link.springer.com/journal/44258/submission-guidelines?utm_source=baidu&utm_medium=cpc&utm_campaign=CONR_44258_CON1_CN_CNPL_01QX1_NEWLA-OAq3&utm_term=Med-X&utm_content=text_enggrp).
+- [03/2024] One paper gets accepted by ICME'24.
 - [02/2024] I will be a reviewer of Journal of IEEE Transactions on Medical Imaging
 - [01/2024] I will be a reviewer of ARR2024 and ACL2024.
 - [01/2024] One paper get accepted by Journal of Multimedia Tools and Applications.
