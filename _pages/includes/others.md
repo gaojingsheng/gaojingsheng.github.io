@@ -18,6 +18,7 @@
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
 - ACM International Conference on Multimedia (ACM MM 2023)
 - International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023-2024)
+- Journal Reviewer of International Journal of Computer Vision
 - Journal Reviewer of Expert Systems with Applications
 - Journal Reviewer of IEEE Transactions on Medical Imaging
 </div>
