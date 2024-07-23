@@ -52,7 +52,7 @@ The 61st Annual Meeting of the Association for Computational Linguistics (**ACL*
 
 [**Toward an End-to-End Implicit Addressee Modeling for Dialogue Disentanglement**](https://gaojingsheng.github.io/)
 
-**Jingsheng Gao**, Jiacheng Ruan, Zeyu Li, Suncheng Xiang, Zhuowei Wang, Ting Liu, Yuzhuo Fu \\
+**Jingsheng Gao**, Zeyu Li, Suncheng Xiang, Zhuowei Wang, Ting Liu, Yuzhuo Fu \\
 Journal of Multimedia Tools and Applications (**MTA**), 2024. (CCF-C)
 
 📄 [**Paper**](https://link.springer.com/article/10.1007/s11042-024-18428-0/) 🍔 [**Project**](https://gaojingsheng.github.io/) 
