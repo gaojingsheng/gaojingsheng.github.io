@@ -2,6 +2,9 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+- [01/2025] One paper gets accepted by ICLR25.
+- [11/2024] One paper gets accepted by AAAI'25.
+- [10/2024] One paper gets accepted by Machine Learning Journal.
 - [07/2024] One paper gets accepted by ACM MM'24.
 - [06/2024] Outstanding Contribution Award in CVPR 2024 Embodied Al Workshop, SEATTLE
 - [05/2024] One paper gets accepted by IJCAI'24.
