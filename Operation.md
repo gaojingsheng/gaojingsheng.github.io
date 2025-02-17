@@ -2,7 +2,7 @@
 
 git add .
 
-git commit  -m "Update **"
+git commit  -m "Update"
 
 git push -u origin master
 

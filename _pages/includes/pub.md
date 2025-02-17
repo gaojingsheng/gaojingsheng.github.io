@@ -2,9 +2,22 @@
 # 📝 Publications 
 <!-- ## 🎙 Speech Synthesis -->
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/LAMM.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SmartRAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+[**SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**](https://arxiv.org/pdf/2410.18141)
+
+**Jingsheng Gao**, Linxu Li, Ke Ji, Weiyuan Li, Yixin Lian, Yuzhuo Fu, Bin Dai \\
+The Thirteenth International Conference on Learning Representations (**ICLR**), 2025. 
+
+📄 [**Paper**](https://arxiv.org/pdf/2410.18141) 🍔 [**Project**](https://github.com/gaojingsheng/SmartRAG) 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/LAMM.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 [**LAMM: Label Alignment for Multi-Modal Prompt Learning**](https://arxiv.org/abs/2312.08212.pdf)
 
