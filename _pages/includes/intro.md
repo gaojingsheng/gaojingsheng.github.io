@@ -2,7 +2,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-I am a fourth-year PhD student at SJTU [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/), under the supervision of [Prof. Yuzhuo Fu](https://dmne.sjtu.edu.cn/dmne/faculty/fuyuzhuo/). Previously, I obtained my bachelor's degree from [School of Physics and Astromony](https://www.physics.sjtu.edu.cn/), Shanghai Jiaotong University. 
+I am a final year PhD student at SJTU [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/), under the supervision of [Prof. Yuzhuo Fu](https://dmne.sjtu.edu.cn/dmne/faculty/fuyuzhuo/). Previously, I obtained my bachelor's degree from [School of Physics and Astromony](https://www.physics.sjtu.edu.cn/), Shanghai Jiaotong University. 
 
 I am now working on LLM based data generation, instruction tuning, dialogue generation and parameter-efficient learning. If you are seeking any form of **academic cooperation**, please feel free to email me at gaojingsheng@sjtu.edu.cn.
 
