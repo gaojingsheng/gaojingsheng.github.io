@@ -48,6 +48,20 @@ The 61st Annual Meeting of the Association for Computational Linguistics (**ACL*
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/HierVerb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+[**DiverSeed: Integrating Active Learning for Target Domain Data Generation**](https://gaojingsheng.github.io/)
+
+**Jingsheng Gao**, Mengnan Qi, Xian Gao, Suncheng Xiang, Ke Ji, Jiacheng Ruan, Ting Liu, Yuzhuo Fu \\
+
+Machine Learning (**ML**), 2025. (CCF-B)
+
+📄 [**Paper**](https://gaojingsheng.github.io/) 🍔 [**Project**](https://gaojingsheng.github.io/) 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/HierVerb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 [**Hierarchical Verbalizer for Few-Shot Hierarchical Text Classification**](https://aclanthology.org/2023.acl-long.164.pdf) 
 
