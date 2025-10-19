@@ -45,7 +45,7 @@ The 61st Annual Meeting of the Association for Computational Linguistics (**ACL*
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/HierVerb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DiverSeed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 [**DiverSeed: Integrating Active Learning for Target Domain Data Generation**](https://gaojingsheng.github.io/)
