@@ -51,7 +51,6 @@ The 61st Annual Meeting of the Association for Computational Linguistics (**ACL*
 [**DiverSeed: Integrating Active Learning for Target Domain Data Generation**](https://gaojingsheng.github.io/)
 
 **Jingsheng Gao**, Mengnan Qi, Xian Gao, Suncheng Xiang, Ke Ji, Jiacheng Ruan, Ting Liu, Yuzhuo Fu \\
-
 Machine Learning (**ML**), 2025. (CCF-B)
 
 📄 [**Paper**](https://gaojingsheng.github.io/) 🍔 [**Project**](https://gaojingsheng.github.io/) 
