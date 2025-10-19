@@ -2,7 +2,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- [01/2025] One paper gets accepted by Machine Learning.
+- [10/2025] One paper gets accepted by Machine Learning.
 - [01/2025] One paper gets accepted by ICLR25.
 - [11/2024] One paper gets accepted by AAAI'25.
 - [10/2024] One paper gets accepted by Machine Learning Journal.
