@@ -700,6 +700,90 @@ summary:focus-visible {
   color: $refresh-muted;
 }
 
+.collaborator-section {
+  margin: 3rem 0;
+}
+
+.collaborator-section > .section-intro {
+  margin-bottom: 1.4rem !important;
+}
+
+.collaborator-group + .collaborator-group {
+  margin-top: 1.5rem;
+}
+
+.collaborator-group__heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.7rem;
+}
+
+.collaborator-group__heading p,
+.collaborator-group__heading h4 {
+  margin: 0;
+}
+
+.collaborator-group__heading p {
+  color: $refresh-blue;
+  font-size: 0.72rem !important;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+.collaborator-group__heading h4 {
+  color: $refresh-muted;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.collaborator-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+.collaborator-grid--three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.collaborator-card {
+  padding: 1rem 1.05rem;
+  border: 1px solid $refresh-line;
+  border-radius: 0.85rem;
+  background: rgba(255, 255, 255, 0.74);
+}
+
+.collaborator-card h4 {
+  margin: 0 0 0.35rem;
+  font-size: 0.96rem;
+}
+
+.collaborator-card h4 a {
+  color: $refresh-ink;
+  text-decoration: none;
+}
+
+.collaborator-card h4 a:hover {
+  color: $refresh-blue;
+}
+
+.collaborator-card p {
+  margin: 0;
+  color: $refresh-muted;
+  font-size: 0.82rem !important;
+  line-height: 1.55;
+}
+
+.collaborator-card .collaborator-role {
+  margin-bottom: 0.45rem;
+  color: $refresh-blue;
+  font-size: 0.72rem !important;
+  font-weight: 750;
+  letter-spacing: 0.02em;
+}
+
 .honor-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -820,8 +904,17 @@ summary:focus-visible {
   .page__content .paper-box,
   .publication-grid,
   .honor-grid,
+  .collaborator-grid,
   .focus-grid {
     grid-template-columns: 1fr;
+  }
+
+  .collaborator-group__heading {
+    display: block;
+  }
+
+  .collaborator-group__heading h4 {
+    margin-top: 0.2rem;
   }
 
   .page__content .paper-box {

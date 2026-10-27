@@ -6,7 +6,7 @@
 
 <p class="intro-lead">I am <strong>Jingsheng Gao (高景盛)</strong>, a researcher working on large language models, post-training, and multimodal learning. My work connects data, learning algorithms, and evaluation to make foundation models more capable, reliable, and useful in real-world settings.</p>
 
-My current interests include **LLM post-training and reinforcement learning**, retrieval-augmented generation, data generation, dialogue intelligence, multimodal learning, and parameter-efficient adaptation. My doctoral research at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) has been conducted at the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/) under the supervision of [Prof. Yuzhuo Fu](https://dmne.sjtu.edu.cn/dmne/faculty/fuyuzhuo/). I previously studied Physics at SJTU.
+My current interests include **LLM post-training and reinforcement learning**, retrieval-augmented generation, data generation, dialogue intelligence, multimodal learning, and parameter-efficient adaptation. My doctoral research at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) has been conducted at the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/), focusing on foundation models, dialogue systems, and multimodal learning. Before my doctoral studies, I earned my **B.S. in Physics** from SJTU's [School of Physics and Astronomy](https://www.physics.sjtu.edu.cn/).
 
 <aside class="current-focus" aria-labelledby="current-focus-title">
   <p class="current-focus__label">CURRENT WORK · SINCE MAR 2026</p>
