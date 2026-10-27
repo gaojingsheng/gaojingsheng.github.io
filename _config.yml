@@ -5,18 +5,20 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 title                    : "Jingsheng Gao (高景盛)"
-description              : "Phd Candidate in Shanghai Jiao Tong University. Focusing on dialogue generation, multi-modal and large language models."
+description              : "Researcher working on LLM post-training, reinforcement learning, retrieval-augmented generation, and adaptive foundation models."
 repository               : "gaojingsheng/gaojingsheng.github.io"
+url                      : "https://gaojingsheng.github.io"
+baseurl                  : ""
 
 author:
   name             : "Jingsheng Gao (高景盛)"
-  avatar           : "images/life_gjs.jpg" # "images/bio-photo.jpeg"
-  bio              : # "Shanghai Jiao Tong University"
-  location         : "Shanghai"
+  avatar           : "images/life-gjs-960.jpg"
+  bio              : "LLM Post-training · RL · RAG"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : 'https://scholar.google.com/citations?user=O4o2aQcAAAAJ&hl=en'
-  email            : "gaojingsheng@sjtu.edu.cn"
+  email            : "gaojingsheng@alumni.sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -32,8 +34,8 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # "rayeren"
-  dblp             : # "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6271-0903"
+  dblp             : "https://dblp.org/pid/275/7262.html"
+  orcid            : "https://orcid.org/0000-0001-6271-0903"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -45,7 +47,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            :  'https://www.zhihu.com/people/cautious-56'
   
 
 # Reading Files
@@ -65,8 +66,10 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - LICENSE
+  - Operation.md
   - README
   - Rakefile
+  - _pages/includes
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
@@ -79,6 +82,7 @@ exclude:
   - vendor
   - google_scholar_crawler
   - github_myprofile_updater
+  - docs
 keep_files:
   - .git
   - .svn

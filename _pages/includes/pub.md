@@ -1,176 +1,85 @@
+<section class="content-section" id="publications" markdown="1">
 
-# 📝 Publications 
-<!-- ## 🎙 Speech Synthesis -->
+<p class="section-kicker">SELECTED WORK</p>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/SmartRAG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
+<h2>Publications</h2>
 
-[**SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**](https://arxiv.org/pdf/2410.18141)
+<p class="section-intro">My research spans foundation-model efficiency, data-centric learning, retrieval-augmented generation, multimodal learning, and dialogue systems. See <a href="https://scholar.google.com/citations?user=O4o2aQcAAAAJ&hl=en">Google Scholar</a> for the full publication list.</p>
 
-**Jingsheng Gao**, Linxu Li, Ke Ji, Weiyuan Li, Yixin Lian, Yuzhuo Fu, Bin Dai \\
-The Thirteenth International Conference on Learning Representations (**ICLR**), 2025. 
+<article class="paper-box paper-box--featured">
+  <div class="paper-box-image">
+    <img src="images/DiverSeed.png" alt="DiverSeed method overview" width="1073" height="441" loading="lazy">
+  </div>
+  <div class="paper-box-text">
+    <p class="paper-meta"><span class="venue">Machine Learning · 2026</span><span>First author</span></p>
+    <h3><a href="https://doi.org/10.1007/s10994-025-06926-7">DiverSeed: Integrating Active Learning for Target Domain Data Generation in Instruction Tuning</a></h3>
+    <p><strong>Jingsheng Gao</strong>, Mengnan Qi, Xian Gao, Suncheng Xiang, Ke Ji, Jiacheng Ruan, Ting Liu, Yuzhuo Fu</p>
+    <p class="paper-summary">A data-generation framework that combines active learning with instruction tuning to improve target-domain coverage.</p>
+    <p class="paper-links"><a href="https://doi.org/10.1007/s10994-025-06926-7">Paper</a></p>
+  </div>
+</article>
 
-📄 [**Paper**](https://arxiv.org/pdf/2410.18141) 🍔 [**Project**](https://github.com/gaojingsheng/SmartRAG) 
+<article class="paper-box paper-box--featured">
+  <div class="paper-box-image">
+    <img src="images/SmartRAG.png" alt="SmartRAG jointly optimized retrieval and generation pipeline" width="892" height="287" loading="lazy">
+  </div>
+  <div class="paper-box-text">
+    <p class="paper-meta"><span class="venue">ICLR · 2025</span><span>First author</span></p>
+    <h3><a href="https://proceedings.iclr.cc/paper_files/paper/2025/hash/83ccb398f3ce9c4d137011f36a03c7d4-Abstract-Conference.html">SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback</a></h3>
+    <p><strong>Jingsheng Gao</strong>, Linxu Li, Ke Ji, Weiyuan Li, Yixin Lian, Yuzhuo Fu, Bin Dai</p>
+    <p class="paper-summary">A reinforcement-learning approach that jointly optimizes retrieval decisions, query rewriting, and answer generation.</p>
+    <p class="paper-links"><a href="https://arxiv.org/abs/2410.18141">Paper</a><a href="https://github.com/gaojingsheng/SmartRAG">Code</a></p>
+  </div>
+</article>
 
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/LAMM.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-[**LAMM: Label Alignment for Multi-Modal Prompt Learning**](https://arxiv.org/abs/2312.08212.pdf)
-
-**Jingsheng Gao**, Jiacheng Ruan, Suncheng Xiang, Zefang Yu, Ke Ji, Mingye Xie, Ting Liu, Yuzhuo Fu \\
-The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (CCF-A)
-
-📄 [**Paper**](https://arxiv.org/abs/2312.08212.pdf) 🍔 [**Project**](https://github.com/gaojingsheng/LAMM) 
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/LiveChat.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-
-[**LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming**](https://aclanthology.org/2023.acl-long.858.pdf) 
-
-**Jingsheng Gao**, Yixin Lian, Ziyi Zhou, Yuzhuo Fu, Baoyuan Wang \\
-The 61st Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023. (CCF-A)
-
-📄 [**Paper**](https://aclanthology.org/2023.acl-long.858.pdf) 🍔 [**Project**](https://github.com/gaojingsheng/LiveChat) 
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DiverSeed.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-[**DiverSeed: Integrating Active Learning for Target Domain Data Generation**](https://gaojingsheng.github.io/)
-
-**Jingsheng Gao**, Mengnan Qi, Xian Gao, Suncheng Xiang, Ke Ji, Jiacheng Ruan, Ting Liu, Yuzhuo Fu \\
-Machine Learning (**ML**), 2025. (CCF-B)
-
-📄 [**Paper**](https://gaojingsheng.github.io/) 🍔 [**Project**](https://gaojingsheng.github.io/) 
-
-</div>
+<div class="publication-grid">
+  <article class="publication-card">
+    <p class="paper-meta"><span class="venue">ACL Findings · 2025</span></p>
+    <h3><a href="https://aclanthology.org/2025.findings-acl.1344/">Enhancing Persona Consistency for LLMs’ Role-Playing using Persona-Aware Contrastive Learning</a></h3>
+    <p>Ke Ji, Yixin Lian, Linxu Li, <strong>Jingsheng Gao</strong>, Weiyuan Li, Bin Dai</p>
+  </article>
+  <article class="publication-card">
+    <p class="paper-meta"><span class="venue">AAAI · 2025</span></p>
+    <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/view/34226">TTE: Two Tokens Are Enough to Improve Parameter-Efficient Tuning</a></h3>
+    <p>Jiacheng Ruan, Mingye Xie, <strong>Jingsheng Gao</strong>, Xian Gao, Suncheng Xiang, Ting Liu, Yuzhuo Fu</p>
+  </article>
 </div>
 
+<article class="paper-box paper-box--featured">
+  <div class="paper-box-image">
+    <img src="images/LAMM.png" alt="LAMM label-alignment framework for multimodal prompt learning" width="1296" height="479" loading="lazy">
+  </div>
+  <div class="paper-box-text">
+    <p class="paper-meta"><span class="venue">AAAI · 2024</span><span>First author</span></p>
+    <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/view/27950">LAMM: Label Alignment for Multi-Modal Prompt Learning</a></h3>
+    <p><strong>Jingsheng Gao</strong>, Jiacheng Ruan, Suncheng Xiang, Zefang Yu, Ke Ji, Mingye Xie, Ting Liu, Yuzhuo Fu</p>
+    <p class="paper-summary">A label-alignment method that narrows the representation gap between vision-language models and downstream classes.</p>
+    <p class="paper-links"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/27950">Paper</a><a href="https://github.com/gaojingsheng/LAMM">Code</a></p>
+  </div>
+</article>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/HierVerb.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
+<article class="paper-box paper-box--featured">
+  <div class="paper-box-image">
+    <img src="images/LiveChat.png" alt="LiveChat personalized dialogue dataset statistics" width="868" height="392" loading="lazy">
+  </div>
+  <div class="paper-box-text">
+    <p class="paper-meta"><span class="venue">ACL · 2023</span><span>First author</span></p>
+    <h3><a href="https://aclanthology.org/2023.acl-long.858/">LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming</a></h3>
+    <p><strong>Jingsheng Gao</strong>, Yixin Lian, Ziyi Zhou, Yuzhuo Fu, Baoyuan Wang</p>
+    <p class="paper-summary">A large-scale Chinese dataset and benchmark for personalized, multi-party dialogue modeling.</p>
+    <p class="paper-links"><a href="https://aclanthology.org/2023.acl-long.858/">Paper</a><a href="https://github.com/gaojingsheng/LiveChat">Code &amp; data</a></p>
+  </div>
+</article>
 
-[**Hierarchical Verbalizer for Few-Shot Hierarchical Text Classification**](https://aclanthology.org/2023.acl-long.164.pdf) 
+<div class="more-work" markdown="1">
 
-Ke Ji, Yixin Lian, **Jingsheng Gao**, Baoyuan Wang \\
-The 61st Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023. (CCF-A)
+### Additional work
 
-📄 [**Paper**](https://aclanthology.org/2023.acl-long.164.pdf) 🍔 [**Project**](https://github.com/1KE-JI/HierVerb) 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/MTA.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-
-[**Toward an End-to-End Implicit Addressee Modeling for Dialogue Disentanglement**](https://gaojingsheng.github.io/)
-
-**Jingsheng Gao**, Zeyu Li, Suncheng Xiang, Zhuowei Wang, Ting Liu, Yuzhuo Fu \\
-Journal of Multimedia Tools and Applications (**MTA**), 2024. (CCF-C)
-
-📄 [**Paper**](https://link.springer.com/article/10.1007/s11042-024-18428-0/) 🍔 [**Project**](https://gaojingsheng.github.io/) 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/student.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-
-[**From Raw Video to Pedagogical Insights: A Unified Framework for Student Behavior Analysis**](https://gaojingsheng.github.io/) 
-
-Zefang Yu, Mingye Xie, **Jingsheng Gao**, Ting Liu, Yuzhuo Fu \\
-The Symposium on Educational Advances in Artificial Intelligence(**EAAI**), 2024. (AAAI Special Track)
-
-📄 [**Paper**](https://gaojingsheng.github.io/) 🍔 [**Project**](https://gaojingsheng.github.io/) 
+- **Hierarchical Verbalizer for Few-Shot Hierarchical Text Classification.** Ke Ji, Yixin Lian, **Jingsheng Gao**, Baoyuan Wang. [ACL, 2023](https://aclanthology.org/2023.acl-long.164/)
+- **CluCDD: Contrastive Dialogue Disentanglement via Clustering.** **Jingsheng Gao**, Zeyu Li, Suncheng Xiang, Ting Liu, Yuzhuo Fu. [IWCIM, 2023](https://ieeexplore.ieee.org/document/10193381) · [Code](https://github.com/gaojingsheng/CluCDD)
+- **DynaSlim: Dynamic Slimming for Vision Transformers.** Da Shi\*, **Jingsheng Gao\***, Ting Liu, Yuzhuo Fu. [ICME, 2023](https://ieeexplore.ieee.org/document/10219879)
+- **EGE-UNet: An Efficient Group Enhanced UNet for Skin Lesion Segmentation.** Jiacheng Ruan, Mingye Xie, **Jingsheng Gao**, Ting Liu, Yuzhuo Fu. [MICCAI, 2023](https://arxiv.org/abs/2307.08473) · [Code](https://github.com/JCruan519/EGE-UNet)
 
 </div>
-</div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DynaSlim.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-
-[**DynaSlim: Dynamic Slimming for Vision Transformers**](https://ieeexplore.ieee.org/abstract/document/10219879) 
-
-Da Shi\*, **Jingsheng Gao\***, Ting Liu, Yuzhuo Fu (\* means equal contribution)\\
-IEEE International Conference on Multimedia and Expo (ICME) (**ICME**), 2023. (CCF-B)
-
-📄 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10219879) 🍔 [**Project**](https://gaojingsheng.github.io/) 
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/CluCDD.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-
-[**CluCDD: Contrastive Dialogue Disentanglement via Clustering**](https://ieeexplore.ieee.org/document/10193381) 
-
-**Jingsheng Gao**, Zeyu Li, Suncheng Xiang, Ting Liu, Yuzhuo Fu\\
-IEEE International Conference on Acoustics, Speech and Signal Processing Satellite Workshop (IWCIM), 2023.
-
-📄 [**Paper**](https://ieeexplore.ieee.org/document/10193381) 🍔 [**Project**](https://github.com/gaojingsheng/CluCDD) 
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/EGEUNet.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-
-[**EGE-UNet: an Efficient Group Enhanced UNet for skin lesion segmentation**](https://arxiv.org/pdf/2307.08473.pdf) 
-
-Jiacheng Ruan, Mingye Xie, **Jingsheng Gao**, Ting Liu, Yuzhuo Fu\\
-The 26th International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2023. (CCF-B)
-
-📄 [**Paper**](https://arxiv.org/pdf/2307.08473.pdf) 🍔 [**Project**](https://github.com/JCruan519/EGE-UNet) 
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Rethink.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-
-[**Rethinking Person Re-Identification via Semantic-Based Pretraining**](https://dl.acm.org/doi/abs/10.1145/3628452) 
-
-Suncheng Xiang, Dahong Qian, **Jingsheng Gao**, Zirui Zhang, Ting Liu, Yuzhuo Fu\\
-ACM Transactions on Multimedia Computing, Communications and Applications (**ACM TOMM**), 2023. (CCF-B)
-
-📄 [**Paper**](https://dl.acm.org/doi/abs/10.1145/3628452) 🍔 [**Project**](https://github.com/JeremyXSC/VTBR) 
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/SAE-NTM.png' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-
-[**SAE-NTM: Sentence-Aware Encoder for Neural Topic Modeling**](https://aclanthology.org/2023.codi-1.14.pdf) 
-
-Hao Liu, **Jingsheng Gao**, Suncheng Xiang, Ting Liu, Yuzhuo Fu\\
-4th Workshop on Computational Approaches to Discourse (**CODI**), 2023.
-
-📄 [**Paper**](https://aclanthology.org/2023.codi-1.14.pdf) 🍔 [**Project**](https://gaojingsheng.github.io/) 
-
-</div>
-</div>
+</section>

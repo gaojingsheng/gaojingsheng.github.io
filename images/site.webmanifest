@@ -1,0 +1,15 @@
+{
+  "name": "Jingsheng Gao — Homepage",
+  "short_name": "Jingsheng Gao",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#f5f7fb",
+  "icons": [
+    {
+      "src": "/images/profile.png",
+      "sizes": "720x720",
+      "type": "image/png"
+    }
+  ]
+}

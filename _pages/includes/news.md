@@ -1,27 +1,29 @@
-# 🔥 News
+<section class="content-section" id="news" markdown="1">
 
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
+<p class="section-kicker">LATEST</p>
 
-- [10/2025] One paper gets accepted by Machine Learning.
-- [01/2025] One paper gets accepted by ICLR25.
-- [11/2024] One paper gets accepted by AAAI'25.
-- [10/2024] One paper gets accepted by Machine Learning Journal.
-- [07/2024] One paper gets accepted by ACM MM'24.
-- [06/2024] Outstanding Contribution Award in CVPR 2024 Embodied Al Workshop, SEATTLE
-- [05/2024] One paper gets accepted by IJCAI'24.
-- [04/2024] I will be a reviewer of International Journal of Computer Vision
-- [03/2024] I will be an assistant editor of [Med-X](https://link.springer.com/journal/44258/submission-guidelines?utm_source=baidu&utm_medium=cpc&utm_campaign=CONR_44258_CON1_CN_CNPL_01QX1_NEWLA-OAq3&utm_term=Med-X&utm_content=text_enggrp).
-- [03/2024] One paper gets accepted by ICME'24.
-- [02/2024] I will be a reviewer of Journal of IEEE Transactions on Medical Imaging
-- [01/2024] I will be a reviewer of ARR2024 and ACL2024.
-- [01/2024] One paper get accepted by Journal of Multimedia Tools and Applications.
-- [12/2023] One paper get accepted by EAAI'24.
-- [12/2023] 🎉 One paper get accepted by AAAI'24.
-- [10/2023] One paper gets accepted by ACM TOMM.
-- [06/2023] One paper gets accepted by MICCAI'23.
-- [06/2023] One paper gets accepted by ACL'23 Workshop.
-- [05/2023] 🎉 Two paper gets accepted by ACL'23.
-- [04/2023] One paper gets accepted by ICASSP'23 Satellite Workshop.
-- [03/2023] One paper gets accepted by ICME'23.
+<h2>News</h2>
+
+<div class="news-list" markdown="1">
+
+- <time datetime="2026-03">Mar 2026</time> Began industry work on post-training and reinforcement learning for conversational agents, focusing on data, reward design, multi-turn learning, and evaluation.
+- <time datetime="2026-01">Jan 2026</time> **DiverSeed** was published in *Machine Learning*, volume 115. [Read the paper](https://doi.org/10.1007/s10994-025-06926-7).
+- <time datetime="2025-01">Jan 2025</time> **SmartRAG** was accepted to [ICLR 2025](https://proceedings.iclr.cc/paper_files/paper/2025/hash/83ccb398f3ce9c4d137011f36a03c7d4-Abstract-Conference.html).
+- <time datetime="2024-11">Nov 2024</time> **TTE: Two Tokens Are Enough to Improve Parameter-Efficient Tuning** was accepted to AAAI 2025.
+- <time datetime="2024-07">Jul 2024</time> One paper was accepted to ACM Multimedia 2024.
+- <time datetime="2024-06">Jun 2024</time> Received the Outstanding Contribution Award at the CVPR 2024 Embodied AI Workshop in Seattle.
 
 </div>
+
+<details class="news-archive">
+  <summary>Earlier updates</summary>
+  <ul>
+    <li><time datetime="2024-05">May 2024</time> One paper was accepted to IJCAI 2024.</li>
+    <li><time datetime="2024-03">Mar 2024</time> Joined <em>Med-X</em> as an assistant editor; one paper was accepted to ICME 2024.</li>
+    <li><time datetime="2024-01">Jan 2024</time> Served as a reviewer for ARR and ACL 2024.</li>
+    <li><time datetime="2023-12">Dec 2023</time> Papers were accepted to EAAI 2024 and AAAI 2024.</li>
+    <li><time datetime="2023-05">May 2023</time> Two papers were accepted to ACL 2023.</li>
+  </ul>
+</details>
+
+</section>

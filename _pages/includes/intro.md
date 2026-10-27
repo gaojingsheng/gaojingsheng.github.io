@@ -1,17 +1,47 @@
-# 🧑 About Me
+<section class="intro-section" id="about" markdown="1">
 
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
+<p class="section-kicker">ABOUT · RESEARCH</p>
 
-I am a final year PhD student at SJTU [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/), under the supervision of [Prof. Yuzhuo Fu](https://dmne.sjtu.edu.cn/dmne/faculty/fuyuzhuo/). Previously, I obtained my bachelor's degree from [School of Physics and Astromony](https://www.physics.sjtu.edu.cn/), Shanghai Jiaotong University. 
+# Post-training foundation models and agents.
 
-I am now working on LLM based data generation, instruction tuning, dialogue generation and parameter-efficient learning. If you are seeking any form of **academic cooperation**, please feel free to email me at gaojingsheng@sjtu.edu.cn.
+<p class="intro-lead">I am <strong>Jingsheng Gao (高景盛)</strong>, a researcher working on large language models, post-training, and multimodal learning. My work connects data, learning algorithms, and evaluation to make foundation models more capable, reliable, and useful in real-world settings.</p>
 
-My long-term collaborators include [Suncheng Xiang](https://jeremyxsc.github.io/), [Mingye Xie](https://myronxie.github.io/) and [Jiacheng Ruan](https://jcruan519.github.io/) at Shanghai Jiao Tong University (SJTU). Previously, I once worked under the guidance of [Wang Baoyuan](https://sites.google.com/site/zjuwby/home), [Yixin Lian](https://lianyixin.github.io/profile/) and [Bin Dai](https://scholar.google.com/citations?user=tYzD6G4AAAAJ&hl=en&oi=ao) in Xiaoice. Open-source projects can be found at my [Github](https://github.com/gaojingsheng/), and the full list of my publications can be found at [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=O4o2aQcAAAAJ). 
+My current interests include **LLM post-training and reinforcement learning**, retrieval-augmented generation, data generation, dialogue intelligence, multimodal learning, and parameter-efficient adaptation. My doctoral research at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) has been conducted at the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/) under the supervision of [Prof. Yuzhuo Fu](https://dmne.sjtu.edu.cn/dmne/faculty/fuyuzhuo/). I previously studied Physics at SJTU.
 
-<!-- I am expected to graduate in 2025. If you have any **suitable job recommendations**, please feel free to contact me. -->
+<aside class="current-focus" aria-labelledby="current-focus-title">
+  <p class="current-focus__label">CURRENT WORK · SINCE MAR 2026</p>
+  <h2 id="current-focus-title">Post-training LLM agents for real-world conversations.</h2>
+  <p>My recent industry work focuses on reinforcement learning for conversational agents, spanning data curation, reward design, scalable training, multi-turn optimization, evaluation, and failure analysis. I am especially interested in turning research ideas into reliable end-to-end learning systems.</p>
+  <div class="focus-grid" role="list">
+    <article role="listitem">
+      <h3>Data &amp; evaluation</h3>
+      <p>Building high-quality training data and feedback loops around challenging interactions.</p>
+    </article>
+    <article role="listitem">
+      <h3>RL post-training</h3>
+      <p>Designing reward signals and improving the stability and quality of model training.</p>
+    </article>
+    <article role="listitem">
+      <h3>Multi-turn agents</h3>
+      <p>Optimizing complete conversation trajectories rather than isolated responses.</p>
+    </article>
+  </div>
+</aside>
 
-In my free time, I enjoy swimming, playing board games, and photography. Additionally, I occasionally post random thoughts on [Zhihu](https://www.zhihu.com/people/cautious-56).
-
-📢 I am expected to graduate in 2025. If you have any suitable job recommendations, please feel free to contact me.
-
+<div class="research-tags" aria-label="Research interests">
+  <span>LLM Post-training</span>
+  <span>Reinforcement Learning</span>
+  <span>Multi-turn Agents</span>
+  <span>Retrieval-Augmented Generation</span>
+  <span>Efficient Adaptation</span>
+  <span>Multimodal Learning</span>
 </div>
+
+<div class="intro-actions">
+  <a class="btn btn--primary" href="mailto:gaojingsheng@alumni.sjtu.edu.cn">Start a conversation</a>
+  <a class="btn btn--quiet" href="https://scholar.google.com/citations?user=O4o2aQcAAAAJ&hl=en">View Google Scholar</a>
+</div>
+
+I welcome research collaborations around LLM post-training, reinforcement learning, RAG, dialogue systems, and multimodal learning. In my free time, I enjoy swimming, board games, and photography.
+
+</section>

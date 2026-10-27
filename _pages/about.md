@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
-
 {% include_relative includes/intro.md %}
 
 {% include_relative includes/news.md %}
+
+{% include_relative includes/others.md %}
 
 {% include_relative includes/pub.md %}
 
 {% include_relative includes/patent.md %}
 
 {% include_relative includes/honers.md %}
-
-{% include_relative includes/others.md %}
