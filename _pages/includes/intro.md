@@ -8,6 +8,8 @@
 
 My current interests include **LLM post-training and reinforcement learning**, retrieval-augmented generation, data generation, dialogue intelligence, multimodal learning, and parameter-efficient adaptation. My doctoral research at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) has been conducted at the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/), focusing on foundation models, dialogue systems, and multimodal learning. Before my doctoral studies, I earned my **B.S. in Physics** from SJTU's [School of Physics and Astronomy](https://www.physics.sjtu.edu.cn/).
 
+I have previously collaborated with [Suncheng Xiang](https://jeremyxsc.github.io/), [Mingye Xie](https://myronxie.github.io/), [Jiacheng Ruan](https://jcruan519.github.io/), [Ke Ji](https://1ke-ji.github.io/), [Baoyuan Wang](https://sites.google.com/site/zjuwby/home), [Yixin Lian](https://lianyixin.github.io/profile/), and [Bin Dai](https://dblp.org/pid/79/292-8.html) on research spanning language models, dialogue intelligence, efficient adaptation, and multimodal learning.
+
 <aside class="current-focus" aria-labelledby="current-focus-title">
   <p class="current-focus__label">CURRENT WORK · SINCE MAR 2026</p>
   <h2 id="current-focus-title">Post-training LLM agents for real-world conversations.</h2>

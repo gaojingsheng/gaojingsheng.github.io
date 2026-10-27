@@ -32,64 +32,6 @@
   </article>
 </div>
 
-<section class="collaborator-section" aria-labelledby="collaborators-title">
-  <h3 id="collaborators-title">Selected collaborators</h3>
-  <p class="section-intro">People I have worked closely with across language models, dialogue intelligence, efficient adaptation, and multimodal learning.</p>
-
-  <div class="collaborator-group">
-    <div class="collaborator-group__heading">
-      <p>RESEARCH NETWORK</p>
-      <h4>Long-term collaborators</h4>
-    </div>
-    <div class="collaborator-grid">
-      <article class="collaborator-card">
-        <h4><a href="https://jeremyxsc.github.io/">Suncheng Xiang</a></h4>
-        <p class="collaborator-role">Assistant Professor · Shanghai Jiao Tong University</p>
-        <p>Multimodal learning, efficient adaptation, and dialogue disentanglement.</p>
-      </article>
-      <article class="collaborator-card">
-        <h4><a href="https://myronxie.github.io/">Mingye Xie</a></h4>
-        <p class="collaborator-role">Research Specialist · Shanghai Jiao Tong University</p>
-        <p>Efficient adaptation, multimodal systems, and embodied AI.</p>
-      </article>
-      <article class="collaborator-card">
-        <h4><a href="https://jcruan519.github.io/">Jiacheng Ruan</a></h4>
-        <p class="collaborator-role">Ph.D. Candidate · Shanghai Jiao Tong University</p>
-        <p>Efficient post-training, multimodal reasoning, and medical vision.</p>
-      </article>
-      <article class="collaborator-card">
-        <h4><a href="https://1ke-ji.github.io/">Ke Ji</a></h4>
-        <p class="collaborator-role">Ph.D. Student · CUHK-Shenzhen</p>
-        <p>RAG, trustworthy agents, persona alignment, and hierarchical learning.</p>
-      </article>
-    </div>
-  </div>
-
-  <div class="collaborator-group">
-    <div class="collaborator-group__heading">
-      <p>XIAOICE</p>
-      <h4>Former collaborators</h4>
-    </div>
-    <div class="collaborator-grid collaborator-grid--three">
-      <article class="collaborator-card">
-        <h4><a href="https://sites.google.com/site/zjuwby/home">Baoyuan Wang</a></h4>
-        <p class="collaborator-role">Former collaborator · Xiaoice</p>
-        <p>Dialogue intelligence and personalized conversational modeling.</p>
-      </article>
-      <article class="collaborator-card">
-        <h4><a href="https://lianyixin.github.io/profile/">Yixin Lian</a></h4>
-        <p class="collaborator-role">Former collaborator · Xiaoice</p>
-        <p>Dialogue systems, retrieval-augmented generation, and persona alignment.</p>
-      </article>
-      <article class="collaborator-card">
-        <h4><a href="https://dblp.org/pid/79/292-8.html">Bin Dai</a></h4>
-        <p class="collaborator-role">Former collaborator · Xiaoice</p>
-        <p>Retrieval-augmented generation and persona-aligned conversational agents.</p>
-      </article>
-    </div>
-  </div>
-</section>
-
 ### Academic service
 
 Active reviewer for leading conferences across machine learning, natural language processing, computer vision, and multimedia, including **ICLR 2025–2026**, **ACL/ARR 2024–2026**, **EMNLP 2024–2026**, **CVPR 2024–2026**, **ACM Multimedia 2023–2026**, and **ICASSP 2023–2026**. Journal reviewing includes the *International Journal of Computer Vision*, *Expert Systems with Applications*, and *IEEE Transactions on Medical Imaging*.
